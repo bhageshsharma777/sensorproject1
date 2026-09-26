@@ -10,4 +10,4 @@ MONGO_DB_URL = mongodb+srv://bhageshsharma777_db_user:oL05ETjp0HTDe6Bv@cluster0.
 MODEL_FILE_NAME = "model"
 MODEL_FILE_EXTENSION = ".pkl"
 
-arifact_folder = "artifacts"
+artifact_folder = "artifacts"

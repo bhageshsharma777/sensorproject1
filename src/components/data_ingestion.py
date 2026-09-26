@@ -7,7 +7,7 @@ from pathlib import Path
 from src.constant import *
 from src.exception import CustomException
 from src.logger import logging
-from src.utils.main_utils import read_yaml_file, save_object, load_object
+from src.utils.main_util import read_yaml_file, save_object, load_object
 from dataclasses import dataclass
 
 @dataclass
